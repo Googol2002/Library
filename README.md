@@ -20,8 +20,17 @@ This library contains a number of wonderful books that AI scientists may need as
 
 ### Pattern Recognition and Machine Learning by Bishop
 
+[[Textbook]](https://github.com/Googol2002/Library/blob/main/Machine%20Learning/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)[[Partial Solutions]](https://github.com/Googol2002/Library/blob/main/Machine%20Learning/prml-web-sol-2009-09-08.pdf)[[All Solutions]](https://github.com/Googol2002/Library/blob/main/Machine%20Learning/BISHOP%20PRML_solution_all.pdf)
+
+## Foundations of Machine Learning by Mohri
+
+[[Textbook]](https://github.com/Googol2002/Library/blob/main/Machine%20Learning/Foundations%20of%20Machine%20Learning%20(2nd%20Edition).pdf)
+
 ## Analysis
 
 
 
 ## Software Engineering
+
+
+
